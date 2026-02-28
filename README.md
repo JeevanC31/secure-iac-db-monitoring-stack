@@ -25,9 +25,9 @@ Design and deploy:
   - MySQL
   - PostgreSQL
   - Docker Swarm
-- Create DB users and seed sample data
-- Configure log rotation
-- Set up full monitoring stack using Prometheus + Grafana
+  - Create DB users and seed sample data
+  - Configure log rotation
+  - Set up full monitoring stack using Prometheus + Grafana
 
 ---
 
