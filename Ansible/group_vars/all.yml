@@ -1,0 +1,8 @@
+mysql_root_password: rootpass
+mysql_user: devuser
+mysql_password: devpass
+mysql_database: appdb
+
+postgres_user: pguser
+postgres_password: pgpass
+postgres_database: pgdb
