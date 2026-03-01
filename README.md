@@ -142,7 +142,6 @@ MySQL Monitoring
 - Uptime
 - Connections
 - Queries
-- Buffer pool stats
 
 PostgreSQL Monitoring
 
@@ -174,4 +173,3 @@ Log rotation prevents log files from growing indefinitely by:
 - Rotating logs daily
 - Compressing old logs
 - Retaining limited backups
----
